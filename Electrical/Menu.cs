@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Electrical
 {
-    public class Class1
+    public class Menu
     {
     }
 }
